@@ -1,0 +1,48 @@
+main{
+    padding-top: 0;
+    margin-top: 0;
+
+}
+#navbar{
+    color:#7448d6;
+    display: space;
+
+}
+
+.primary{
+    background-color:blueviolet;
+    margin-top: 60px;
+    padding: 40px;
+    position: relative;
+}
+
+.fata{ 
+    max-height: 600px;
+    margin-top: 70px;
+    right: 0px;
+    position: absolute
+    background-color: blueviolet;
+}
+.sad{
+    color: white;
+}
+
+.nav-item{
+    color:#7448d6;
+    font: 16px "Volte Rounded";
+}
+.nav-link{
+    color:#7448d6;
+}
+#text1{
+    text-align: right;
+    color: whitesmoke;
+    max-width: 70%;
+    float: right;
+}
+.info-buttons{ 
+    margin-left: 10px;
+}
+.button.btn-primary{
+    margin-left:10px;
+}
