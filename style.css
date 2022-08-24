@@ -23,9 +23,9 @@ main{
     position: absolute
     background-color: blueviolet;
 }
-.sad{
+/* .sad{
     color: white;
-}
+} */
 
 .nav-item{
     color:#7448d6;
@@ -43,6 +43,19 @@ main{
 .info-buttons{ 
     margin-left: 10px;
 }
-.button.btn-primary{
+/* .button.btn-primary{
     margin-left:10px;
+} */
+#create-account{
+    display: inline;
+}
+#Conecteaza-te{
+    margin-left: 10px;
+}
+#faticont{
+    margin-left: 10px;
+}
+#logo{
+    width: auto;
+    max-width: 100%;
 }
